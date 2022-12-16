@@ -96,6 +96,7 @@ h2 {
 }
 
 .form .input div input {
+  outline: none
   border-radius: 20px;
   padding-left: 10px;
   border-top: 0;
